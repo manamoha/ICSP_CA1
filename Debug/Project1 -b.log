@@ -1,0 +1,3 @@
+﻿  1.c
+D:\university\ICSP\projects\project 1\Project1 -b\1.c(356,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+  Project1 -b.vcxproj -> D:\university\ICSP\projects\project 1\Project1 -b\Debug\Project1 -b.exe
